@@ -1,4 +1,4 @@
-topse// Set all the pin numbers that read the digital signals. For example "inPin1" will be the pin number on the microcontroller that expects a signal when "outPin1" sends a digital signal.
+// Set all the pin numbers that read the digital signals. For example "inPin1" will be the pin number on the microcontroller that expects a signal when "outPin1" sends a digital signal.
 #define inPin1 20
 #define inPin2 21
 #define inPin3 5
